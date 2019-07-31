@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FestaFimDeAno</string>
+    <string name="hoje">Hoje:</string>
+    <string name="nao_confirmado">Não Confirmado</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="dias">Dias</string>
+
+</resources>
